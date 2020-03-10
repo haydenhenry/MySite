@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+h1{
+    margin-top: 0;
+}
+
+.containerBox{
+    /* height: 200px; */
+    /* width: 200px; */
+}
+
+.topContainer{
+    background-color: #beebe9;
+}
+
+.middleContainer{
+    background-color: #FFFDF9;
+}
+
+.bottomContainer{
+    background-color: #8ac6d1;
+}
